@@ -1,7 +1,9 @@
 # CodeAlpha_StudentGradeTracker
 
 ## Description
-A Spring Boot web application for managing student grades. Features include adding/editing/deleting students, calculating average/highest/lowest scores, and viewing summary reports.
+A simple full-stack web application built using Spring Boot, JSP, and MySQL.
+It helps manage students’ grades — you can add, edit, delete records and see each student’s average, highest, and lowest scores instantly.
+The interface is clean, responsive, and user-friendly.
 
 ## Tech Stack
 - Backend: Spring Boot 3.5.6, JPA/Hibernate, MySQL
