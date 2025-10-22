@@ -25,4 +25,4 @@ The interface is clean, responsive, and user-friendly.
 - **Report**: Summary table with overall average.
 - **Validations**: Name required (2-100 chars), grades numeric 0-100.
 
-#CodeAlphaIntern #JavaProject
+#JavaProject
