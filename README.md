@@ -13,7 +13,7 @@ The interface is clean, responsive, and user-friendly.
 
 ## Setup & Run
 1. Install MySQL, create DB `grade_tracker` with user `root/root`.
-2. Clone repo: `git clone https://github.com/gadgeDeven/CodeAlpha_StudentGradeTracker.git`
+2. Clone repo: `git clone https://github.com/gadgeDeven/StudentGradeTracker.git`
 3. `mvn clean install`
 4. `mvn spring-boot:run`
 5. Open `http://localhost:8081/students`
