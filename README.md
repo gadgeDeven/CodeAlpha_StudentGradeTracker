@@ -1,4 +1,4 @@
-# CodeAlpha_StudentGradeTracker
+# StudentGradeTracker
 
 ## Description
 A simple full-stack web application built using Spring Boot, JSP, and MySQL.
